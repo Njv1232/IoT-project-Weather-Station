@@ -555,14 +555,6 @@ void loop() {
 }
 ```
 
-</details>
 
----
 
-## License
 
-Add your preferred license here (for example MIT) and include a `LICENSE` file in the repository.
-
-## Authors
-
-Add your name and team members here.
